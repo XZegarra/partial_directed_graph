@@ -1,0 +1,3 @@
+C:/Universidad/Verano EDA/persistence/build/CMakeFiles/persistence.dir
+C:/Universidad/Verano EDA/persistence/build/CMakeFiles/ALL_BUILD.dir
+C:/Universidad/Verano EDA/persistence/build/CMakeFiles/ZERO_CHECK.dir

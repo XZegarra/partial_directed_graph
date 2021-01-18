@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Universidad\Verano EDA\persistence\source\persistence/partial_directed_graph.hpp(156,1): error C2100: illegal indirection
+C:\Universidad\Verano EDA\persistence\source\persistence/partial_directed_graph.hpp(155): message : while compiling class template member function 'ADE::Persistence::PartialNode<Type> ADE::Persistence::PartialDirectedGraph<Type>::get_root(const unsigned int &)'
+C:\Universidad\Verano EDA\persistence\source\persistence/partial_directed_graph.hpp(155): message :         with
+C:\Universidad\Verano EDA\persistence\source\persistence/partial_directed_graph.hpp(155): message :         [
+C:\Universidad\Verano EDA\persistence\source\persistence/partial_directed_graph.hpp(155): message :             Type=int
+C:\Universidad\Verano EDA\persistence\source\persistence/partial_directed_graph.hpp(155): message :         ]
+C:\Universidad\Verano EDA\persistence\source\main.cpp(64): message : see reference to function template instantiation 'ADE::Persistence::PartialNode<Type> ADE::Persistence::PartialDirectedGraph<Type>::get_root(const unsigned int &)' being compiled
+C:\Universidad\Verano EDA\persistence\source\main.cpp(64): message :         with
+C:\Universidad\Verano EDA\persistence\source\main.cpp(64): message :         [
+C:\Universidad\Verano EDA\persistence\source\main.cpp(64): message :             Type=int
+C:\Universidad\Verano EDA\persistence\source\main.cpp(64): message :         ]
+C:\Universidad\Verano EDA\persistence\source\main.cpp(55): message : see reference to class template instantiation 'ADE::Persistence::PartialDirectedGraph<int>' being compiled
